@@ -1,4 +1,4 @@
-<h1>Hi Everyone, I am Jiraphon Ieotrakoon</h1>
+<h1 style="color: red;">Hi Everyone, I am Jiraphon Ieotrakoon</h1>
 This is my github profile 
 Let us CODING together !!! 🔥
 <!---
