@@ -9,7 +9,7 @@
   <br/>
   
   
-  <img width="16px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/html5.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 <br/>
+  <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/html5.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 <br/>
   <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/css.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 <br/>
   <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/php.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
   <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/js.webp" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
