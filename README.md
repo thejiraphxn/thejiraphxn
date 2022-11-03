@@ -6,7 +6,7 @@
 <img src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/github-logo.png" />This is my github profile <br/>
 🔥 Let us CODING together !!! 🔥 <br/>
 </h5>
-<img src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/meowmeme.jpeg" />
+<img width="25px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/meowmeme.jpeg" />
 
  </div>
 <!---
