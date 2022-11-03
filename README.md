@@ -4,8 +4,9 @@
 <h5>
 
 <img width="10px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/github-logo.png" />
-This is my github profile <br/>
+This is my github profile
 <img width="10px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/github-logo.png" />
+<br/>
 
 🔥 Let us CODING together !!! 🔥 <br/>
 </h5>
