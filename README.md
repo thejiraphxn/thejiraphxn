@@ -10,12 +10,12 @@
   
   
   <p><img width="13px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/html5.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 </p>
-  <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/css.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 <br/>
-  <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/php.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
-  <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/js.webp" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
-  <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/c.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
-  <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/cplusplus.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
-  <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/python.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
+  <p><img width="13px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/css.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 </p>
+  <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/php.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 </p>
+  <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/js.webp" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 </p>
+  <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/c.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 </p>
+  <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/cplusplus.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 </p>
+  <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/python.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 </p>
 
   🔥 Let's CODING together !!! 🔥 <br/>
   
