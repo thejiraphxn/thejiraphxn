@@ -15,8 +15,8 @@
   <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/php.png" /> ⬜️  ⬜️  ⬜️  ⬜️  ⬜️  ⬜️  ⬜️  🟥  🟥  🟥 </p>
   <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/js.webp" /> ⬜️  ⬜️  ⬜️  ⬜️  ⬜️  ⬜️  🟥  🟥  🟥  🟥 </p>
   <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/c.png" /> ⬜️  ⬜️  ⬜️  ⬜️ ⬜️  ⬜️  🟥  🟥  🟥  🟥 </p>
-  <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/cplusplus.png" /> ⬜️  ⬜️  ⬜️  ⬜️  🟥  🟥  🟥  🟥  🟥  🟥 </p>
   <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/python.png" /> ⬜️  ⬜️  ⬜️  ⬜️  ⬜️  🟥  🟥  🟥  🟥  🟥 </p>
+  <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/cplusplus.png" /> ⬜️  ⬜️  ⬜️  ⬜️  🟥  🟥  🟥  🟥  🟥  🟥 </p>
 
 
   <h4>🔥 Let's CODING together !!! 🔥</h4>
