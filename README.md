@@ -18,12 +18,13 @@
   <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/cplusplus.png" /> ⬜️  ⬜️  ⬜️  ⬜️  🟥  🟥  🟥  🟥  🟥  🟥 </p>
   <p><img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/python.png" /> ⬜️  ⬜️  ⬜️  ⬜️  ⬜️  🟥  🟥  🟥  🟥  🟥 </p>
 
-<h4>
-  🔥 Let's CODING together !!! 🔥 <br/>
+
+  <h4>🔥 Let's CODING together !!! 🔥</h4>
   
-  🔗 !!! Connect with me !!! 🔗<br/>
-  <a href="https://www.instagram.com/thejiraphxn">Instagram</a>
-</h4>
+  <h4>
+   🔗 !!! Connect with me !!! 🔗<br/>
+   <a href="https://www.instagram.com/thejiraphxn">Instagram</a>
+  </h4>
  
  <img src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/meowmeme.jpeg" />
 
