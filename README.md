@@ -3,7 +3,7 @@
 <h3>TRAINEE OF WEBDEV !</h3>
 <h5>
 
-<img src="![GitHub-Mark-32px](https://user-images.githubusercontent.com/99804199/199651832-0a98b1aa-2e58-4770-8951-48e081c3f18f.png)" />This is my github profile <br/>
+<img src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/github-logo.png" />This is my github profile <br/>
 🔥 Let us CODING together !!! 🔥 <br/>
 </h5>
 <img src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/meowmeme.jpeg" />
