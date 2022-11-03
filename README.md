@@ -16,15 +16,15 @@
 
 
 
-#### Description  🔥
+### Description  🔥
 
 " My name is Jiraphon Ieotakoon. I am freshmen of Rangsit University, College of Engineering. I am learning about web development and build some project with Javascript, PHP, Flutter, NodeJS and etc. Sometimes I make project for grow up my skills like CRUD, POS and basic APIs. "
 
 ---
     
     
-#### Technologies 🔧
-##### Languages
+### Technologies 🔧
+#### Languages
 -   HTML 
 -   CSS
 -   php
@@ -34,13 +34,13 @@
 -   Java (Basic use)
 -   MySQL (mysqli function)
 -   Flutter (Basic use)
-##### Modules Libraries and Frameworks (Basic use)
+#### Modules Libraries and Frameworks (Basic use)
 -   NodeJS
 -   Jquery
 -   Laravel
 -   VueJS
 -   Tkinter
-##### Text Editor and Tools
+#### Text Editor and Tools
 -   Visual Studio Code (Always use)
 -   Visual Studio Code Insiders (Always use)
 -   Sublime Text 
@@ -54,7 +54,7 @@
 -   FileZilla
 
 
-##### Author Info 🔗
+#### Author Info 🔗
 -   Instagram - [@thejiraphxn](https://www.instagram.com/thejiraphxn)
  
  <!-- <img src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/meowmeme.jpeg" /> -->
