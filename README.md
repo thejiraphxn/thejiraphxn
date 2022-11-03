@@ -9,10 +9,10 @@
   <br/>
   
   
-  <img width="20px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/html.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 <br/>
+  <img width="20px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/html5.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 <br/>
   <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/css.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 <br/>
   <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/php.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
-  <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/js.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
+  <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/js.webp" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
   <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/c.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
   <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/cplusplus.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
   <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/python.png" /> ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ ⬜️ 🟥 🟥 🟥 <br/>
