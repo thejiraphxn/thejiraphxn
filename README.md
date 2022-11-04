@@ -3,11 +3,6 @@
  <h1>🌟 Hi Everyone, I am Jiraphon 🌟</h1>
  <h3>🚀 TRAINEE OF WEBDEV ! 🚀</h3>
  <h4>
-
-  <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/github-logo.png" />
-  This is my Github profile
-  <img width="15px" src="https://github.com/thejiraphxn/thejiraphxn/blob/main/assets/github-logo.png" />
-  <br/>
   </h4>
   <h5>" LET'S CODING TOGETHER ! "</h5>
 
