@@ -32,7 +32,7 @@
 -   C/C++ (Basic use)
 -   Python (Basic use)
 -   Java (Basic use)
--   SQL (mysqli function)
+-   SQL (mssql, mysqli function)
 -   Flutter (Basic use)
 #### Modules Libraries and Frameworks (Basic use)
 -   NodeJS
