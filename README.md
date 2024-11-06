@@ -34,19 +34,15 @@
 -   Jquery
 -   Laravel
 -   VueJS
--   Tkinter
+-   ReactJS
 #### Text Editor and Tools
 -   Visual Studio Code (Always use)
--   Visual Studio Code Insiders (Always use)
 -   Sublime Text 
 -   Android Studio (Basic use)
 -   CLion (Basic use)
 -   IntelliJ IDEA CE (Basic use)
 -   Postman (Sometimes APIs checker)
 -   PyCharm CE (Basic use)
--   MAMP
--   XAMPP
--   FileZilla
 
 
 #### Author Info 🔗
