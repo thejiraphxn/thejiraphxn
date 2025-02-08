@@ -1,7 +1,7 @@
 
 <div align="center">
- <h1>🌟 Hi Everyone, I am Jiraphon 🌟</h1>
- <h3>🚀 TRAINEE OF WEBDEV ! 🚀</h3>
+ <h1>🌟 Hi Everyone, My name is Jiraphon 🌟</h1>
+ <h3>🚀 I am a beginner of Full-Stack Developer ! 🚀</h3>
  <h4>
   </h4>
   <h5>" LET'S CODING TOGETHER ! "</h5>
@@ -23,13 +23,14 @@
 -   HTML 
 -   CSS
 -   php
--   Javascript (Basic use)
--   C/C++ (Basic use)
+-   Javascript
+-   C/C++
+-   C# (.NET)
 -   Python (Basic use)
 -   Java (Basic use)
--   SQL (mssql, mysqli function)
+-   SQL
 -   Flutter (Basic use)
-#### Modules Libraries and Frameworks (Basic use)
+#### Modules Libraries and Frameworks
 -   NodeJS
 -   Jquery
 -   Laravel
