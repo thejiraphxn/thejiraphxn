@@ -13,7 +13,7 @@
 
 ### Description  🔥
 
-" My name is Jiraphon Ieotakoon. I am freshmen of Rangsit University, College of Engineering. I am learning about web development and build some project with Javascript, PHP, Flutter, NodeJS and etc. Sometimes I make project for grow up my skills like CRUD, POS and basic APIs. "
+" My name is Jiraphon Ieotakoon. I am freshmen of Rangsit University, College of Engineering. I am learning about web development and build some project with Javascript, PHP, Flutter, NodeJS and etc. Sometimes I make project for grow up my skills like CRUD, POS, Event Ticket Seller and API. "
 
 ---
     
