@@ -64,7 +64,7 @@
 
 ## 🎓 Education 📚
 
-🏫 **Rangsit University** - Bachelor’s in **Computer Engineering** *(2022 - 2024)*
+🏫 **Rangsit University** - Bachelor’s in **Computer Engineering** *(2022 - Present)*
 - 🖥️ Relevant Coursework: **Web Development, Database Management, Full-Stack Development, IoT**
 - 📊 **GPA:** 3.39
 
