@@ -25,15 +25,15 @@
 
 ### **📚 Libraries & Frameworks**
 - 🎨 **Frontend:** React.js ⚛️, Vue.js 🌿, Next.js 🚀, jQuery 🖱️, Bootstrap 🎨, MUI 🏗️, Tailwind 💨, DaisyUI 🌼
-- 🏗 **Backend:** Node.js 🌍, Express.js 🚛, Django 🐍, Flask 🌶️, Laravel 🔨
-- 🗄 **Databases:** MySQL 🗃, MariaDB 🏦, PostgreSQL 🐘, MongoDB 🍃, MSSQL 🏢
-- 🎯 **Others:** OpenCV 👀, Mongoose 🦎
+- 🏗 **Backend:** Node.js 🌍, Express.js 🚛, Django 🐍, Flask 🌶️, Laravel 🔨, **FastAPI ⚡**
+- 🗄 **Databases:** MySQL 🗃, MariaDB 🏦, PostgreSQL 🐘, MongoDB 🍃, MSSQL 🏢, **Firebase 🔥**
+- 🎯 **Others:** OpenCV 👀, Mongoose 🦎, **PyQt 🪟**
 
 ### **🛠 Development Tools**
 - ✨ **IDEs & Editors:** Visual Studio Code 💻 (Primary), PyCharm 🐍, IntelliJ IDEA CE 🔥, CLion 🛠️
 - 🔗 **API & Networking:** Postman 📮, ngrok 🌍
 - 🔄 **Version Control:** Git 🧑‍💻, GitHub 🚀
-- 📦 **Others:** Docker 🐳, Arduino 🤖, XAMPP ⚡, MAMP 🏠
+- 📦 **Others:** Docker 🐳, Arduino 🤖, XAMPP ⚡, MAMP 🏠, **Uvicorn 🦄**
 
 ---
 
@@ -77,4 +77,3 @@
 ---
 
 🔥 Let's **collaborate** and build something amazing together! 🚀
-
