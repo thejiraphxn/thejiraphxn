@@ -4,7 +4,7 @@
 
 ### 🎯 "LET'S CODE TOGETHER!" 🎯
 
-#📌 [🌐 View my Portfolio](https://thejiraphxns-portfolio.netlify.app)
+📌 [🌐 View my Portfolio](https://thejiraphxns-portfolio.netlify.app)
 
 ---
 
