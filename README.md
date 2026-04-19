@@ -10,7 +10,7 @@
 
 ## 🔥 About Me 🔥
 
-👋 Hi! I'm **Jiraphon Ieotrakoon**, a **third-year Computer Engineering student** at **Rangsit University** 🎓. With **4-5 years of hands-on experience** in **Full-Stack Web Development**, I'm passionate about **building dynamic, scalable, and user-friendly web applications**. 💻✨
+👋 Hi! I'm **Jiraphon Ieotrakoon**, a **final-year Computer Engineering student** at **Rangsit University** 🎓. With **4-5 years of hands-on experience** in **Full-Stack Web Development**, I'm passionate about **building dynamic, scalable, and user-friendly web applications**. 💻✨
 
 🚀 I have successfully developed and maintained various projects, including a **🎟️ concert ticket booking platform, 🛒 point-of-sale system, and 🍕 food ordering app**. My expertise lies in **React, Vite, Node.js, and MariaDB**, and I’m eager to apply my technical skills in a professional environment. 🚀
 
