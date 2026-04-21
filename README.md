@@ -89,7 +89,7 @@ VS Code
 
 **Rangsit University**  
 Bachelor of Computer Engineering (2022 – Present)  
-GPAX: 3.39  
+GPAX: 3.48  
 
 Relevant coursework:  
 Web Development, Database Systems, Full-Stack Development  
