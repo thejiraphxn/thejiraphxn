@@ -1,79 +1,108 @@
-# 🌟 Hi Everyone, My name is Jiraphon 🌟
+# 🌟 Hi, I'm Jiraphon
 
-## 🚀 Full-Stack Web Developer 🚀
+## 🚀 Full-Stack Web Developer
 
-### 🎯 "LET'S CODE TOGETHER!" 🎯
-
-📌 [🌐 View my Portfolio](https://thejiraphxns-portfolio.netlify.app)
-
----
-
-## 🔥 About Me 🔥
-
-👋 Hi! I'm **Jiraphon Ieotrakoon**, a **final-year Computer Engineering student** at **Rangsit University** 🎓. With **4-5 years of hands-on experience** in **Full-Stack Web Development**, I'm passionate about **building dynamic, scalable, and user-friendly web applications**. 💻✨
-
-🚀 I have successfully developed and maintained various projects, including a **🎟️ concert ticket booking platform, 🛒 point-of-sale system, and 🍕 food ordering app**. My expertise lies in **React, Vite, Node.js, and MariaDB**, and I’m eager to apply my technical skills in a professional environment. 🚀
+💼 Flowly-Hub: https://flowly-hub.com
+📌 Portfolio: https://thejiraphxns-portfolio.netlify.app  
 
 ---
 
-## 🛠️ Technologies & Tools 🔧
+## 🔥 About Me
 
-### **💻 Programming Languages**
-- 🎨 **Frontend:** HTML, CSS, JavaScript, TypeScript
-- ⚙️ **Backend:** PHP, Python (Basic), SQL, C/C++, C#, Java (Basic)
-- 🔧 **Scripting:** Bash
+Hi, I'm **Jiraphon Ieotrakoon**, a final-year **Computer Engineering student** at **Rangsit University**.
 
-### **📚 Libraries & Frameworks**
-- 🎨 **Frontend:** React.js ⚛️, Vue.js 🌿, Next.js 🚀, jQuery 🖱️, Bootstrap 🎨, MUI 🏗️, Tailwind 💨, DaisyUI 🌼
-- 🏗 **Backend:** Node.js 🌍, Express.js 🚛, Django 🐍, Flask 🌶️, Laravel 🔨, FastAPI ⚡
-- 🗄 **Databases:** MySQL 🗃, MariaDB 🏦, PostgreSQL 🐘, MongoDB 🍃, MSSQL 🏢, Firebase 🔥
-- 🎯 **Others:** OpenCV 👀, Mongoose 🦎, PyQt 🪟
+I have around **4–5 years of hands-on experience** building web applications, focusing on full-stack development. I’m particularly interested in building real-world systems such as SaaS platforms, business tools, and booking systems.
 
-### **🛠 Development Tools**
-- ✨ **IDEs & Editors:** Visual Studio Code 💻 (Primary), PyCharm 🐍, IntelliJ IDEA CE 🔥, CLion 🛠️
-- 🔗 **API & Networking:** Postman 📮, ngrok 🌍
-- 🔄 **Version Control:** Git 🧑‍💻, GitHub 🚀
-- 📦 **Others:** Docker 🐳, Arduino 🤖, XAMPP ⚡, MAMP 🏠, Uvicorn 🦄
+I’m currently looking for opportunities to gain real production experience, collaborate with teams, and continue improving my engineering skills.
 
 ---
 
-## 🚀 Experiences & Projects 📂
+## 🚀 Projects & Experience
 
-### **🏢 SomsakConcrete Part., Ltd. (Home) | Full-Stack Developer** *(Dec 2021 - Present)*
-- 🏗️ Developed a **business management website** integrating multiple systems.
-- 🛒 Designed & implemented a **Point of Sale (POS) system** with invoice generation.
-- 🔄 Migrated an **existing PHP-based website** to **ReactJS, Node.js, and MySQL**.
-- 🚀 Improved system **scalability, maintainability, and performance** through microservices.
-- 🎨 Enhanced **user experience (UX) and responsiveness** with ReactJS.
+### 💼 Flowly (Personal SaaS Project)
+**Full-Stack Developer | Owner**
 
-### **🎟 Event Ticket Seller (Junior Project) | Full-Stack Developer** *(Jan 2025 - Present)*
-- 🏆 Built an **event ticket booking platform** with **React, Node.js, Vite, and MySQL**.
-- 🔐 Implemented **secure authentication (JWT)** and **Stripe API payment integration**.
-- 🎫 Created a **real-time seat selection and booking system**.
-- 📊 Developed an **admin dashboard for event organizers**.
-- 🚀 Optimized **database queries for better performance**.
-
-### **🍕 ScanSlice (Pizza Ordering App) (Junior Project) | Full-Stack Developer** *(Oct 2024 - Dec 2024)*
-- 🍽 Built a **restaurant ordering system** using **React, Node.js, Vite, MariaDB**.
-- 📲 Implemented **table-specific QR code-based ordering**.
-- ⏳ Developed a **real-time order tracking system**.
-- 📋 Integrated a **dynamic menu management system**.
-- 🚀 Optimized **database performance** for efficient order processing.
+- Developing a **web-based system for freelancers and small businesses**
+- Core features include:
+  - Quotation, invoice, and tax invoice generation
+  - Expense tracking system
+  - PDF document generation
+- Focused on **simple workflow design and usability**
+- Designed for real-world usage in small businesses and freelance work
 
 ---
 
-## 🎓 Education 📚
+### 🏢 Business Management System (SomsakConcrete)
+**Full-Stack Developer | 2021 – Present**
 
-🏫 **Rangsit University** - Bachelor’s in **Computer Engineering** *(2022 - Present)*
-- 🖥️ Relevant Coursework: **Web Development, Database Management, Full-Stack Development, IoT**
-- 📊 **GPAX:** 3.39
-
----
-
-## 🔗 Connect with Me 🤝
-- 📸 **Instagram:** [@thejiraphxn](https://www.instagram.com/thejiraphxn)
-- 🌍 **Portfolio:** [thejiraphxns-portfolio.netlify.app](https://thejiraphxns-portfolio.netlify.app)
+- Developed internal web systems for managing business operations  
+- Built a **Point of Sale (POS) system with invoice generation**  
+- Migrated legacy PHP system to **React + Node.js + MySQL**  
+- Improved UI responsiveness and system structure  
 
 ---
 
-🔥 Let's **collaborate** and build something amazing together! 🚀
+### 🎟 Event Ticket Booking Platform  
+**Full-Stack Developer | 2025**
+
+- Built a **ticket booking system** using React, Node.js, and MySQL  
+- Implemented **JWT authentication** and **Stripe payment integration**  
+- Developed **seat selection and booking flow**  
+- Created an **admin dashboard for managing events**  
+
+---
+
+### 🍕 ScanSlice (QR Food Ordering System)  
+**Full-Stack Developer | 2024**
+
+- Built a **QR-based ordering system** for restaurants  
+- Implemented **real-time order tracking**  
+- Designed a **dynamic menu management system**  
+- Optimized database queries for order handling  
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**  
+HTML, CSS, JavaScript, TypeScript  
+React.js, Next.js, Vue.js  
+Tailwind CSS, Bootstrap, MUI  
+
+**Backend**  
+Node.js, Express.js  
+Flask, FastAPI (basic)  
+Laravel (basic)
+
+**Database**  
+MySQL, MariaDB, PostgreSQL  
+MongoDB, Firebase  
+
+**Tools**  
+Git, GitHub, Docker  
+Postman, ngrok  
+VS Code  
+
+---
+
+## 🎓 Education
+
+**Rangsit University**  
+Bachelor of Computer Engineering (2022 – Present)  
+GPAX: 3.39  
+
+Relevant coursework:  
+Web Development, Database Systems, Full-Stack Development  
+
+---
+
+## 🔗 Contact
+
+Instagram: https://www.instagram.com/thejiraphxn  
+Portfolio: https://thejiraphxns-portfolio.netlify.app  
+
+---
+
+## 🔥 Final Note
+
+I’m interested in **junior full-stack roles, freelance work, or internships** where I can contribute to real projects and continue growing as a developer.
