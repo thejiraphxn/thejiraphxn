@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Web Developer
 
-💼 Flowly-Hub: https://flowly-hub.com
+💼 Flowly-Hub: https://flowly-hub.com \
 📌 Portfolio: https://thejiraphxns-portfolio.netlify.app  
 
 ---
