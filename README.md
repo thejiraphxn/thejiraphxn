@@ -1,7 +1,7 @@
 # 🌟 Hi, I'm Jiraphon
 ## 🚀 Full-Stack Developer
 
-📧 jiraphon.itk@gmail.com | 📞 (+66) 980-656-183
+📧 jiraphon.itk@gmail.com
 🔗 [Portfolio](https://thejiraphxns-portfolio.netlify.app) | 💼 [Flowly Hub](https://flowly-hub.com) | 📸 [@thejiraphxn](https://www.instagram.com/thejiraphxn)
 
 ---
