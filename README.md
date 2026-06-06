@@ -76,4 +76,4 @@ Ollama, LLaMA, Whisper, YOLO, LangChain, MCP
 
 ### **Rangsit University**  
 **Bachelor of Engineering in Computer Engineering**  
-`2022 – 2026` · GPAX 3.48
+`2022 – 2026`
