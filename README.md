@@ -1,7 +1,7 @@
 # 🌟 Hi, I'm Jiraphon  
 ## 🚀 Full-Stack Developer
 
-🔗 [Portfolio](https://thejiraphxns-portfolio.netlify.app)  
+🔗 [Portfolio](https://thejiraphxn.dev)  
 💼 [Flowly Hub](https://flowly-hub.com)  
 📸 [@thejiraphxn](https://www.instagram.com/thejiraphxn)
 
