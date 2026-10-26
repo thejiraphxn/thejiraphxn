@@ -1,5 +1,5 @@
 # 🌟 Hi, I'm Jiraphon  
-## 🚀 Full-Stack Developer
+## 🚀 Full-Stack Developer / Software Developer / Software Engineer
 
 🔗 [Portfolio](https://thejiraphxn.dev)  
 💼 [Flowly Hub](https://flowly-hub.com)  
